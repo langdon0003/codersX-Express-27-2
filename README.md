@@ -3,7 +3,7 @@ Bạn quyết định làm đầy đủ chức năng cho mobile app. Hãy viết
 
 ## API list:
 
-Resource|POST<br>create|GET<br>read|PUT<br>update|DELETE<br>delete|
+Resource|POST<br>create|GET<br>read|PATCH<br>update|DELETE<br>delete|
 :-|:-:|:-:|:-:|:-:|
 `/auth/login`|log in|-|-|-|
 `/auth/logout`|log out|-|-|-|
